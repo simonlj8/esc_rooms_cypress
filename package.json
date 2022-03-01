@@ -4,7 +4,8 @@
   "description": "Cypress test on Escape Hacker Rooms",
   "main": "index.js",
   "scripts": {
-    "watch": "sass --watch --no-source-map src/main.scss main.css"
+    "watch": "sass --watch --no-source-map src/main.scss main.css",
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
