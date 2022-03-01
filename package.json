@@ -1,7 +1,7 @@
 {
   "name": "02-esc-website",
   "version": "1.0.0",
-  "description": "",
+  "description": "Cypress test on Escape Hacker Rooms",
   "main": "index.js",
   "scripts": {
     "watch": "sass --watch --no-source-map src/main.scss main.css"
@@ -10,5 +10,13 @@
   "license": "ISC",
   "devDependencies": {
     "sass": "^1.43.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonlj8/esc_rooms_cypress.git"
+  },
+  "bugs": {
+    "url": "https://github.com/simonlj8/esc_rooms_cypress/issues"
+  },
+  "homepage": "https://github.com/simonlj8/esc_rooms_cypress#readme"
 }
